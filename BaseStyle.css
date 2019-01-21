@@ -1,0 +1,20 @@
+﻿/* Default Setting*/
+	*{   
+	margin: 0;
+	padding: 0;
+    }
+
+	body{
+	line-height: 150%;
+	font-size : 20px;
+	font-family : Couriel;
+	background-image : url(BackGround/backGround.png);
+	}
+
+	a{
+	text-decoration: none;
+	}
+
+	ul{
+	list-style:none;
+	}
